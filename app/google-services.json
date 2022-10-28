@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20208574046",
+    "project_id": "fooddonationapp-connect",
+    "storage_bucket": "fooddonationapp-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20208574046:android:26467b8c665bac84a69ecf",
+        "android_client_info": {
+          "package_name": "com.example.FDA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20208574046-blbqvl9rmj68p098n5kqcg0ddm8ijn0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMc9JTIHkW2ksUWqCZBY9guGX39Hcw2iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20208574046-blbqvl9rmj68p098n5kqcg0ddm8ijn0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
